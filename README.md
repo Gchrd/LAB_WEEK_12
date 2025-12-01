@@ -1,14 +1,17 @@
-# Proyek Android LAB_WEEK_12
+# LAB_WEEK_12 - Android Project
 
-Aplikasi ini menampilkan daftar film populer dari The Movie Database (TMDb).
+## Student Info
+- Name: Richard Giansanto  
+- Student Number: 00000076941 
 
-## Fitur
+## Project Description
+Coroutines and Flow
 
-* Menampilkan daftar film populer
-* Menampilkan detail untuk setiap film
+## Submission Links
+*URL APK DAN SCREENSHOT PENGERJAAN OUTPUT (Google Drive):*
+    (https://drive.google.com/drive/folders/1Pv5DJivvvczGDVDjc-6JH8k7361DCmJb?hl=id)
 
-## Petunjuk Menjalankan
-
-1.  Buka proyek di Android Studio.
-2.  Tambahkan API key TMDb Anda di file `local.properties` dengan format `tmdb_api_key="YOUR_API_KEY"`.
-3.  Jalankan aplikasi.
+## How to Run
+1.  Open the project in Android Studio.
+2.  Add your TMDb API key to the local.properties file using the format tmdb_api_key="YOUR_API_KEY".
+3.  Run the application.
